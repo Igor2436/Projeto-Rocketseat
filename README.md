@@ -18,7 +18,7 @@ Programa exclusivo feito por mim sob a instrução da Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="Projeto Devlinks" src="https://imgur.com/EuydK7M.jpg" width="100%">
+  <img alt="Projeto Devlinks" src="https://imgur.com/LVB9IyM.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
