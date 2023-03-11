@@ -1,7 +1,7 @@
 <h1 align="center"> Devlinks </h1>
 
 <p align="center">
-programa exclusivo feito por mim sob a instrução da Rocketseat para ensino de tecnologias WEB.
+Programa exclusivo feito por mim sob a instrução da Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -18,7 +18,8 @@ programa exclusivo feito por mim sob a instrução da Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="Projeto Devlinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Devlinks" src="https://imgur.com/LVB9IyM.jpg" width="100%">
+  //https://imgur.com/EuydK7M
 </p>
 
 ## 🚀 Tecnologias
